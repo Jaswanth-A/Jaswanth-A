@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaswanth
 - 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently learning Applicatioins of Transfer Learning
+- 🌱 I’m currently learning Applications of Transfer Learning
 - 📫 You can reach me on my email: jashu903@gmail.com
 
 <!---
